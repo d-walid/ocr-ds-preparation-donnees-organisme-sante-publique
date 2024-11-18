@@ -11,12 +11,6 @@ Cette base de données open source est mise à la disposition de particuliers et
 
 Dans un premier temps, vous devez vous concentrer sur la prise en main des données, et d’abord les nettoyer et les explorer. Vous êtes missionné sur le projet de nettoyage et exploration des données en interne, afin de déterminer la faisabilité de cette idée d’application de Santé publique France
 
-### Enjeux de l'analyse :
-
-- **Identifier les pays** avec un fort potentiel pour l'expansion des services d'academy.
-- Explorer les **tendances éducatives** internationales à travers divers indicateurs.
-- **Évaluer la qualité** du jeu de données afin de garantir qu'il est exploitable.
-
 ## Démarche
 
 ### 1. Traiter le jeu de données
