@@ -36,5 +36,5 @@ Dans un premier temps, vous devez vous concentrer sur la prise en main des donn�
 
 ## Liens utiles
 
-- [Page d'accueil des données d'Open Food Facts]([https://data.worldbank.org](https://world.openfoodfacts.org/))
-- [Téléchargement direct des données]([https://datacatalog.worldbank.org/search/dataset/0038480](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip))
+- [Page d'accueil des données d'Open Food Facts](https://world.openfoodfacts.org/)
+- [Téléchargement direct des données](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip)
